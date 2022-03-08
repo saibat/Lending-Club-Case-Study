@@ -9,7 +9,7 @@ by: <br>
 ## Problem Statement
 Solving this assignment will give you an idea about how real business problems are solved using EDA. In this case study, apart from applying the techniques you have learnt in EDA, you will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
-Business Understanding
+#### Business Understanding
 You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
 If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
@@ -39,24 +39,6 @@ If one is able to identify these risky loan applicants, then such loans can be r
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
 
-
-
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Conclusions
 so the result of this case study is as following,
 <br>
@@ -66,32 +48,18 @@ second of all, we had to do the univariate analysis, bivariate analysis and deri
 we have got to the conclusion, 
 <br>
  1. Borrowers who are working for more than 10 years are more unlikely to repay the loan.
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+ 2. Borrowers who are on rent or mortgage are more unlikely to repay the loan.
+ 3. 60months term loan is better than 36months term loan.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Ipython notebook
 
 ## Acknowledgements
 
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was inspired by IIITB under the course of masters in AI & ML
 
 ## Contact
 Created by [@saibat] and [@Ashu1905]
 <br>
  feel free to contact us!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
