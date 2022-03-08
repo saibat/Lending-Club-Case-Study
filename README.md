@@ -43,13 +43,14 @@ In other words, the company wants to understand the driving factors (or driver v
 so the result of this case study is as following,
 <br>
 Firstly, we have done the data cleaning from the dataset we have i.e., loan.csv file.
-second of all, we had to do the univariate analysis, bivariate analysis and derived matrics on the dataset.
+Then, we had to do the univariate analysis, data binning, bivariate analysis and derived matrics on the dataset, to get the necessary data we required for our analysis.
 <br>
-we have got to the conclusion, 
+we have got to the conclusion that, 
 <br>
  1. Borrowers who are working for more than 10 years are more unlikely to repay the loan.
  2. Borrowers who are on rent or mortgage are more unlikely to repay the loan.
  3. 60months term loan is better than 36months term loan.
+ 4. Grades, interest rates are the other factors.
 
 
 ## Technologies Used
